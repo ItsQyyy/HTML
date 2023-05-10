@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>My Blog</title>
+  </head>
+  <body>
+    <div style="text-align: center">
+      <h1>About Me</h1>
+      <hr size="10" />
+    </div>
+    <div style="text-align: center">
+      <p>
+        Haii Nama Saya <b>Fabian</b>.Saya seorang pelajar di sekolah
+        <b> SMK Negeri 1 Ciamis</b> .Membaca Webtoon dan menonton anime adalah
+        sebuah hiburan bagi saya. yang saya paling sukai adalah anime dengan
+        genre romance comedy. tapi untuk film saya pribadi lebih teratrik
+        dengan<b> technology</b> dan
+        <b>action seperti ironman,the flash,spiderman dll.</b> saya juga
+        teratarik dengan film yang membahas tentang<b>
+          sains seperti interstellar dengan dunia 4D-5D nya dan ant man dengan
+          dunia quantumm nya.</b
+        >
+        Pembelajaran Yang saya sukai adalah pelajaran<b>
+          Bahasa Inggris,Matematika dan DPK</b
+        >.Saya juga teratrik menjadi gamedeveloper atau programmer. Oleh karena
+        itu saya harus lebih berjuang lagi di Pembelajaran yang bekaitan dengan
+        cita saya itu
+      </p>
+    </div>
+  </body>
+</html>
